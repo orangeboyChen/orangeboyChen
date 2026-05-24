@@ -25,10 +25,10 @@
 ## 📈 GitHub Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=orangeboyChen&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.tsinbei.com/api?username=orangeboyChen&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangeboyChen&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.tsinbei.com/api/top-langs/?username=orangeboyChen&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" />
 </a>
 
 ---
