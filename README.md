@@ -36,9 +36,9 @@ I explore how AI agents can safely interact with local services, personal data, 
 - [notification-mcp](https://github.com/orangeboyChen/notification-mcp) — exposes Telegram, Email, and Bark notifications as controlled MCP tools
 - [wealthfolio-connect-self-hosted](https://github.com/orangeboyChen/wealthfolio-connect-self-hosted) — self-hosted companion service for Wealthfolio sync scenarios
 
-Focus: MCP server design, finance automation, notification workflows, and safe boundaries around personal services.
+Focus: MCP server design, AI-accessible tools, finance automation, notification workflows, and safe boundaries around personal services.
 
- AI-accessible tools,### 🛠️ Developer Tools & CLI
+### 🛠️ Developer Tools & CLI
 
 I enjoy building command-line tools that turn messy workflows into reproducible, validated, and maintainable processes.
 
@@ -48,7 +48,7 @@ Focus: CLI design, dependency resolution, structured configuration, validation, 
 
 ### 🌐 Full-Stack & Campus Services
 
-I have also built product-oriented applications that combine frontend, backend and, service integration, real user scenarios.
+I have also built product-oriented applications that combine frontend, backend, service integration, and real user scenarios.
 
 - [whu-ham](https://github.com/whu-ham) — Wuhan University life assistant for timetable, grades, sports venue reservation, and library reservation workflows
 
@@ -98,6 +98,9 @@ Focus: frontend/backend integration, campus service aggregation, workflow automa
   </a>
 </p>
 
+> Private contributions can be included through GitHub profile settings.  
+> Private repository statistics require a self-hosted `github-readme-stats` instance with a GitHub token.
+
 ---
 
 ## 📊 Activity
@@ -110,7 +113,7 @@ Focus: frontend/backend integration, campus service aggregation, workflow automa
 
 ## 📫 Contact
 
-If you want to discuss software engineering, infrastructure, automation agents, AI, or interesting tools, feel free to reach me through:
+If you want to discuss software engineering, infrastructure, automation, AI agents, or interesting tools, feel free to reach me through:
 
 - GitHub Issues: [orangeboyChen/orangeboyChen](https://github.com/orangeboyChen/orangeboyChen/issues)
 - Email: available on my GitHub profile
