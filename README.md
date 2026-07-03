@@ -25,18 +25,21 @@ I build Home Assistant integrations and automations that connect real devices an
 
 - [ha-jd-smart](https://github.com/orangeboyChen/ha-jd-smart) — Home Assistant custom integration for JD Smart / JD Xiaojia air conditioners
 - [ha-vanward-water-heater](https://github.com/orangeboyChen/ha-vanward-water-heater) — Home Assistant custom integration for Vanward water heaters
+- [ha-meituan-delivery](https://github.com/orangeboyChen/ha-meituan-delivery) — work-in-progress Home Assistant integration around delivery-rider location automation
 
 Focus: custom integrations, captured app APIs, device entities, token refresh, and real-world smart-home automation.
 
-### 🤖 AI Agents, MCP & Personal Automation
+### 🤖 AI Agents, MCP & Model Gateway Tooling
 
-I explore how AI agents can safely interact with local services, personal data, and automation workflows through MCP servers and self-hosted infrastructure.
+I explore how AI agents, MCP servers, and model-gateway tools can connect local services, personal data, and automation workflows with clear operational boundaries.
 
 - [portfolio-insight-mcp](https://github.com/orangeboyChen/portfolio-insight-mcp) — connects Wealthfolio portfolio data to AI agents for analysis and daily reports
-- [notification-mcp](https://github.com/orangeboyChen/notification-mcp) — exposes Telegram, Email, and Bark notifications as controlled MCP tools
 - [wealthfolio-connect-self-hosted](https://github.com/orangeboyChen/wealthfolio-connect-self-hosted) — self-hosted companion service for Wealthfolio sync scenarios
+- [notification-mcp](https://github.com/orangeboyChen/notification-mcp) — exposes Telegram, Email, and Bark notifications as controlled MCP tools
+- [new-api-langfuse-proxy](https://github.com/orangeboyChen/new-api-langfuse-proxy) — adds Langfuse telemetry around New API traffic
+- [new-api-mobile](https://github.com/orangeboyChen/new-api-mobile) — work-in-progress mobile client experiments for New API management flows
 
-Focus: MCP server design, AI-accessible tools, finance automation, notification workflows, and safe boundaries around personal services.
+Focus: MCP server design, AI-accessible tools, model gateway observability, finance automation, notification workflows, and safe boundaries around personal services.
 
 ### 🛠️ Developer Tools & CLI
 
@@ -60,7 +63,7 @@ Focus: frontend/backend integration, campus service aggregation, workflow automa
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=go,ts,js,kotlin,swift,java,python,cpp,rust&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,ts,js,kotlin,swift,java,cpp,rust&theme=light)](https://skillicons.dev)
 
 ### Backend, Frontend & Mobile
 
@@ -79,6 +82,7 @@ Focus: frontend/backend integration, campus service aggregation, workflow automa
 - Kubernetes & GitOps
 - DevOps and observability
 - AI agents and MCP tools
+- Model gateway tooling and observability
 - Developer tooling
 - Smart-home automation
 - Security and cryptography
@@ -90,16 +94,9 @@ Focus: frontend/backend integration, campus service aggregation, workflow automa
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.tsinbei.com/api?username=orangeboyChen&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.tsinbei.com/api/top-langs/?username=orangeboyChen&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" />
-  </a>
+  <img height="160" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
-
-> Private contributions can be included through GitHub profile settings.  
-> Private repository statistics require a self-hosted `github-readme-stats` instance with a GitHub token.
 
 ---
 
