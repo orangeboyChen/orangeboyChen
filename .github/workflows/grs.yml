@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,scss
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,scss&exclude_repo=new-api-langfuse-proxy,wealthfolio,lobehub-gateway,ha-bemfa,brands,MoviePilot-Plugins,MoviePilot-PluginsV2,appattest,claude-code,WHU-sb-i18n,Telegraph-Image,mars,bilibili-api,whu-ham,bl_sbx,kotlin,ha_xiaomi_home,ShapeBlurView,qcloud-documents,WHU-GPA-helperX,homeassistant-memobird,monyhar,Conductor-backend,MIXBOX-ARCHIVE,wuhan2020,WebApp
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
