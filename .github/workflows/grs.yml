@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,scss
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=html,css,scss&exclude_repo=dump_luckin,wechatpay-cli,meituan
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
