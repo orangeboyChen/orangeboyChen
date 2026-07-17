@@ -26,6 +26,7 @@ I build Home Assistant integrations and automations that connect real devices an
 - [ha-jd-smart](https://github.com/orangeboyChen/ha-jd-smart) — Home Assistant custom integration for JD Smart / JD Xiaojia air conditioners
 - [ha-vanward-water-heater](https://github.com/orangeboyChen/ha-vanward-water-heater) — Home Assistant custom integration for Vanward water heaters
 - [ha-meituan-delivery](https://github.com/orangeboyChen/ha-meituan-delivery) — work-in-progress Home Assistant integration around delivery-rider location automation
+- [ha-lobehub](https://github.com/orangeboyChen/ha-lobehub) — Home Assistant custom integration for LobeHub agents and conversations
 
 Focus: custom integrations, captured app APIs, device entities, token refresh, and real-world smart-home automation.
 
