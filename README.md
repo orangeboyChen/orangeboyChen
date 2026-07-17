@@ -23,7 +23,7 @@ I care about reliable systems, clean boundaries, developer tools, and software t
 
 I build Home Assistant integrations and automations that connect real devices and everyday scenarios into a controllable local system.
 
-- [ha-jd-smart](https://github.com/orangeboyChen/ha-jd-smart) — Home Assistant custom integration for JD Smart / JD Xiaojia air conditioners
+- [ha-jd-smart](https://github.com/orangeboyChen/ha-jd-smart) — Home Assistant custom integration for JD Xiaojia
 - [ha-vanward-water-heater](https://github.com/orangeboyChen/ha-vanward-water-heater) — Home Assistant custom integration for Vanward water heaters
 - [ha-meituan-delivery](https://github.com/orangeboyChen/ha-meituan-delivery) — work-in-progress Home Assistant integration around delivery-rider location automation
 - [ha-lobehub](https://github.com/orangeboyChen/ha-lobehub) — Home Assistant custom integration for LobeHub agents and conversations
