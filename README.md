@@ -54,9 +54,18 @@ Focus: CLI design, dependency resolution, structured configuration, validation, 
 
 I have also built product-oriented applications that combine frontend, backend, service integration, and real user scenarios.
 
-- [whu-ham](https://github.com/whu-ham) — Wuhan University life assistant for timetable, grades, sports venue reservation, and library reservation workflows
+* [whu-ham](https://github.com/whu-ham) — Wuhan University life assistant for timetable, grades, course discovery, sports venue reservation, library reservation, and other campus workflows
 
-Focus: frontend/backend integration, campus service aggregation, workflow automation, and product-style application development.
+  * `ham-backend-go` *(private)* — Go backend for campus service integration, data aggregation, authentication, and business workflows
+  * [ham-web](https://github.com/whu-ham/ham-web) — web client for campus services
+  * [ham-rn](https://github.com/whu-ham/ham-rn) — React Native cross-platform mobile client
+  * `ham-android` *(private)* — native Android client built with Kotlin and Jetpack Compose
+  * `ham-ios` *(private)* — native iOS client built with Swift and SwiftUI
+
+  Other repositories in the organization cover shared protocols, autoscaling, administration tools, API status monitoring, infrastructure, and supporting components. See the [whu-ham organization](https://github.com/whu-ham) for the complete project list.
+
+Focus: frontend/backend integration, native and cross-platform application development, campus service aggregation, workflow automation, and product-style application development.
+
 
 ---
 
