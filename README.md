@@ -27,8 +27,17 @@ I build Home Assistant integrations and automations that connect real devices an
 - [ha-vanward-water-heater](https://github.com/orangeboyChen/ha-vanward-water-heater) — Home Assistant custom integration for Vanward water heaters
 - [ha-meituan-delivery](https://github.com/orangeboyChen/ha-meituan-delivery) — work-in-progress Home Assistant integration around delivery-rider location automation
 - [ha-lobehub](https://github.com/orangeboyChen/ha-lobehub) — Home Assistant custom integration for LobeHub agents and conversations
+- [ha-csg](https://github.com/orangeboyChen/ha-csg) — Home Assistant integration for China Southern Power Grid electricity data and Energy dashboard statistics
 
 Focus: custom integrations, captured app APIs, device entities, token refresh, and real-world smart-home automation.
+
+### 🌐 Network & Proxy Tooling
+
+I also work on proxy-core extensions and protocol support for self-hosted networking workflows.
+
+- [sing-box-reF1nd](https://github.com/orangeboyChen/sing-box-reF1nd) — forked and extended sing-box with Ninja outbound protocol support
+
+Focus: proxy-core development, protocol implementation, outbound transports, and configuration documentation.
 
 ### 🤖 AI Agents, MCP & Model Gateway Tooling
 
