@@ -46,6 +46,7 @@ I explore how AI agents, MCP servers, and model-gateway tools can connect local 
 - [portfolio-insight-mcp](https://github.com/orangeboyChen/portfolio-insight-mcp) — connects Wealthfolio portfolio data to AI agents for analysis and daily reports
 - [wealthfolio-connect-self-hosted](https://github.com/orangeboyChen/wealthfolio-connect-self-hosted) — self-hosted companion service for Wealthfolio sync scenarios
 - [notification-mcp](https://github.com/orangeboyChen/notification-mcp) — exposes Telegram, Email, and Bark notifications as controlled MCP tools
+- [codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) — proxies CodeBuddy through OpenAI-compatible and Anthropic-compatible APIs for Codex, Claude Code, and standard SDK clients
 - [new-api-langfuse-proxy](https://github.com/orangeboyChen/new-api-langfuse-proxy) — adds Langfuse telemetry around New API traffic
 - [new-api-mobile](https://github.com/orangeboyChen/new-api-mobile) — work-in-progress mobile client experiments for New API management flows
 
