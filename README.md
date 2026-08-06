@@ -48,7 +48,6 @@ I explore how AI agents, MCP servers, and model-gateway tools can connect local 
 - [notification-mcp](https://github.com/orangeboyChen/notification-mcp) — exposes Telegram, Email, and Bark notifications as controlled MCP tools
 - [codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) — proxies CodeBuddy through OpenAI-compatible and Anthropic-compatible APIs for Codex, Claude Code, and standard SDK clients
 - [new-api-langfuse-proxy](https://github.com/orangeboyChen/new-api-langfuse-proxy) — adds Langfuse telemetry around New API traffic
-- [new-api-mobile](https://github.com/orangeboyChen/new-api-mobile) — work-in-progress mobile client experiments for New API management flows
 
 Focus: MCP server design, AI-accessible tools, model gateway observability, finance automation, notification workflows, and safe boundaries around personal services.
 
