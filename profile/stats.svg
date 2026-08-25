@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">orangeboy&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 323, Total PRs: 460, Total Issues: 32, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 31, Total Commits  (last year) : 535, Total PRs: 486, Total Issues: 32, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.60738385509377;
+        stroke-dashoffset: 72.05414648562217;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >24</text>
+      >31</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >323</text>
+      >535</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >460</text>
+      >486</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
