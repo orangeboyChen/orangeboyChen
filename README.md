@@ -122,7 +122,7 @@ Focus: frontend/backend integration, native and cross-platform application devel
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangeboyChen&theme=vue-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/orangeboyChen/github-readme-activity-graph/output/graph-vue-dark-no-border.svg" alt="GitHub Activity Graph" />
 </p>
 
 ---
