@@ -1,6 +1,6 @@
 # 👋 Hi, I'm orangeboy
 
-I'm a software engineer working on client-side development at **Tencent**, while continuously building backend, cloud-native, AI-agent, and automation systems through real-world projects and self-hosted infrastructure.
+I'm a software engineer and former Tencent employee, while continuously building backend, cloud-native, AI-agent, and automation systems through real-world projects and self-hosted infrastructure.
 
 I care about reliable systems, clean boundaries, developer tools, and software that can be understood, operated, and maintained.
 
@@ -8,7 +8,7 @@ I care about reliable systems, clean boundaries, developer tools, and software t
 
 ## 🧭 About Me
 
-- 💼 Software developer at **Tencent**
+- 💼 Former software developer at **Tencent**
 - 🧩 Interested in **backend engineering**, **cloud-native systems**, **AI agents**, **DevOps**, and **system design**
 - 🏠 Running a Kubernetes-based homelab with GitOps, observability, backup, media, AI, finance, and automation services
 - 🛠️ Building tools around developer productivity, infrastructure, automation, and everyday workflows
